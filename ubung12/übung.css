@@ -1,0 +1,12 @@
+li {
+    color: rgb(48, 39, 39);
+}
+
+ul li {
+    background: rgb(179, 190, 19);
+    font: 100;
+}
+
+p {
+    color: darkgreen;
+}
